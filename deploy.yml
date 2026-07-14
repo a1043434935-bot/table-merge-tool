@@ -1,4 +1,4 @@
-name: Deploy to GitHub Pages
+# This file is deprecated - use .github/workflows/deploy.yml insteadname: Deploy to GitHub Pages
 
 on:
   push:
